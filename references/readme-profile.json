@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 333｜Sacred Tech Relic: keeps the photo and condenses its subject into one small techno-archaeological emblem, like a seal, medal or bas-relief left by a lost civilisation — circuit traces turn into halos, garment folds and seal borders, mechanical nodes become ritual ornament, rendered as low metal relief, bronze etching and gilded lines in deep indigo, sea blue, matte gold, bronze, old brass and warm grey, centred on a calm axis in wide quiet space, with only tiny engraved marks or abstract characters. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-333 or asks for a sacred circuit seal, techno-relic medallion or ancient-future emblem from a photo.",
+  "short_description": "圣技遗徽：把照片主体收成一枚电路化作光环、古铜浮雕质感的未知文明小圣物",
+  "zh-CN": {
+    "name": "圣技遗徽",
+    "tagline": "把照片主体收成一枚像失落文明留下的电路浮雕小印章。",
+    "look": "只留照片里一个轮廓、一个姿态或一个关键结构，做成像古代印章、纪念章或浅浮雕的小徽记。电路线变成光环、衣褶和印章边框，机械节点变成仪式般的纹样，线路规整、转折干净。质感是金属浮雕、古铜蚀刻和镀金线路，颜色收在深靛蓝、深海蓝、哑光金、古铜、旧黄铜和暖灰里，没有霓虹色。徽记居中、沿一条轴线稳稳立着，四周大片安静留白，只有极小的刻字、编号或抽象字符。",
+    "traits": [
+      "技术考古",
+      "神圣电路",
+      "印章浮雕",
+      "仪式几何",
+      "微型圣物"
+    ],
+    "good": [
+      "姿态清楚、像雕像一样的人物：侧脸、合掌、仰头、端坐",
+      "轮廓简洁的动物或器物：一只鸟、一匹马、一台老相机、一盏灯",
+      "想做成纪念章、头像徽记或收藏卡正面的照片"
+    ],
+    "poor": [
+      "需要保留完整人体、多人互动或复杂背景的照片",
+      "零件密集、结构繁复的机器，容易变成线路堆砌",
+      "想要赛博朋克霓虹、科幻海报、游戏界面或 App 图标效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Sacred Tech Relic",
+    "tagline": "Condenses the subject of your photo into a small circuit relief seal that looks left behind by a lost civilisation.",
+    "look": "Only one outline, pose or key structure from the photo remains, made into a small emblem like an ancient seal, medal or low relief. Circuit traces become halos, garment folds and seal borders, mechanical nodes become ritual ornament, and the lines run in tidy, precise paths. It reads as metal relief, etched bronze and gilded wiring, kept to deep indigo, sea blue, matte gold, bronze, old brass and warm grey, with no neon. The emblem stands centred on a steady axis in wide, quiet empty space, with only tiny engraved letters, numbers or abstract characters.",
+    "traits": [
+      "Techno-archaeology",
+      "Sacred circuitry",
+      "Relief seal",
+      "Ritual geometry",
+      "Miniature relic"
+    ],
+    "good": [
+      "Figures with a clear, statue-like pose: a profile, joined hands, a raised face, someone seated upright",
+      "Animals or objects with a clean outline: a bird, a horse, an old camera, a lamp",
+      "Photos you want as a commemorative medal, avatar emblem or collector's card face"
+    ],
+    "poor": [
+      "Photos that need a full body, several interacting people or a busy background",
+      "Machines dense with parts, which tend to turn into a tangle of wiring",
+      "Requests for cyberpunk neon, sci-fi posters, game interfaces or app icons"
+    ]
+  },
+  "ja": {
+    "name": "聖なる技術の遺印",
+    "tagline": "写真の主役を、失われた文明が残したような回路レリーフの小さな印章にまとめます。",
+    "look": "写真から輪郭、姿勢、要となる構造のどれか一つだけを残し、古代の印章、記念メダル、浅浮き彫りのような小さな紋章にします。回路の線は光輪や衣のひだ、印章の縁取りになり、機械の節点は儀式的な文様になり、線は規則正しく折れ目もすっきりしています。質感は金属レリーフ、ブロンズのエッチング、金めっきの配線で、色は深いインディゴ、深海の青、マットな金、ブロンズ、古い真鍮、温かいグレーに収まり、ネオンカラーはありません。紋章は中央に一本の軸で静かに立ち、周りには広く静かな余白があり、ごく小さな刻印、番号、抽象的な文字だけが添えられます。",
+    "traits": [
+      "技術考古学",
+      "聖なる回路",
+      "印章レリーフ",
+      "儀式的幾何学",
+      "小さな聖遺物"
+    ],
+    "good": [
+      "彫像のように姿勢がはっきりした人物：横顔、合掌、見上げる顔、まっすぐ座る姿",
+      "輪郭がすっきりした動物や道具：鳥、馬、古いカメラ、ランプ",
+      "記念メダル、アイコン用の紋章、コレクションカードの表面にしたい写真"
+    ],
+    "poor": [
+      "全身や複数人のやりとり、込み入った背景を残したい写真",
+      "部品が密集した複雑な機械（配線の寄せ集めになりがちです）",
+      "サイバーパンクのネオン、SF ポスター、ゲーム UI、アプリアイコンを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "성스러운 기술 유물",
+    "tagline": "사진 속 주인공을 사라진 문명이 남긴 듯한 회로 부조의 작은 인장으로 압축합니다.",
+    "look": "사진에서 윤곽, 자세, 핵심 구조 중 하나만 남겨 고대 인장, 기념 메달, 얕은 부조 같은 작은 휘장으로 만듭니다. 회로선은 후광, 옷 주름, 인장 테두리가 되고 기계 마디는 의식적인 문양이 되며, 선은 규칙적이고 꺾임이 깔끔합니다. 질감은 금속 부조, 청동 에칭, 금도금 회로이고 색은 짙은 인디고, 심해 파랑, 무광 금, 청동, 오래된 황동, 따뜻한 회색 안에 머물며 네온색은 없습니다. 휘장은 가운데에서 한 축을 따라 안정적으로 서 있고, 주변은 넓고 고요한 여백이며 아주 작은 각인, 번호, 추상 문자만 들어갑니다.",
+    "traits": [
+      "기술 고고학",
+      "성스러운 회로",
+      "인장 부조",
+      "의식의 기하학",
+      "작은 성물"
+    ],
+    "good": [
+      "조각상처럼 자세가 분명한 인물: 옆얼굴, 합장, 올려다보는 얼굴, 꼿꼿이 앉은 모습",
+      "윤곽이 간결한 동물이나 사물: 새, 말, 오래된 카메라, 램프",
+      "기념 메달, 프로필 휘장, 수집 카드 앞면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "전신, 여러 사람의 상호작용, 복잡한 배경을 살려야 하는 사진",
+      "부품이 빽빽한 복잡한 기계(회로선 더미가 되기 쉽습니다)",
+      "사이버펑크 네온, SF 포스터, 게임 UI, 앱 아이콘을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أثر التقنية المقدّسة",
+    "tagline": "يختزل العنصر الرئيسي في صورتك إلى ختم صغير بارز من الدوائر الإلكترونية كأنه من بقايا حضارة مفقودة.",
+    "look": "لا يبقى من الصورة إلا خط خارجي واحد أو وضعية واحدة أو بنية أساسية واحدة، تتحول إلى شعار صغير يشبه ختماً قديماً أو ميدالية أو نقشاً بارزاً خفيفاً. تصير مسارات الدوائر هالات وثنيات ثياب وإطارات للختم، وتصير العُقد الميكانيكية زخارف طقسية، وتمضي الخطوط في مسارات منتظمة دقيقة. يبدو كنقش معدني بارز وبرونز محفور وأسلاك مذهّبة، وتنحصر ألوانه في النيلي الداكن وأزرق البحر العميق والذهبي المطفأ والبرونزي والنحاس الأصفر القديم والرمادي الدافئ، بلا ألوان نيون. يقف الشعار في المنتصف على محور ثابت وسط فراغ واسع هادئ، ولا يرافقه سوى حروف أو أرقام محفورة صغيرة جداً أو رموز مجرّدة.",
+    "traits": [
+      "أركيولوجيا تقنية",
+      "دوائر مقدّسة",
+      "ختم بارز",
+      "هندسة طقسية",
+      "أثر مصغّر"
+    ],
+    "good": [
+      "أشخاص بوضعية واضحة تشبه التماثيل: وجه جانبي، كفّان مضمومتان، وجه مرفوع، جلسة مستقيمة",
+      "حيوانات أو أشياء بخطوط خارجية بسيطة: طائر، حصان، كاميرا قديمة، مصباح",
+      "صور تريدها ميدالية تذكارية أو شعاراً لصورتك الشخصية أو واجهة بطاقة مقتنيات"
+    ],
+    "poor": [
+      "صور تحتاج إلى جسد كامل أو تفاعل عدة أشخاص أو خلفية مزدحمة",
+      "آلات مكتظة بالقطع، تتحول غالباً إلى كومة من الأسلاك",
+      "طلب نيون سايبربانك أو ملصقات خيال علمي أو واجهات ألعاب أو أيقونات تطبيقات"
+    ]
+  }
+}

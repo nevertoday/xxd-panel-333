@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-333
-description: "Create XXD Panel 333 raster artwork: a faithful photograph paired with one techno-archaeological seal where a circuit becomes halo, fold or ritual edge. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-333 or asks for this 圣技遗徽 style."
+description: "XXD Panel 333｜Sacred Tech Relic: keeps the photo and condenses its subject into one small techno-archaeological emblem, like a seal, medal or bas-relief left by a lost civilisation — circuit traces turn into halos, garment folds and seal borders, mechanical nodes become ritual ornament, rendered as low metal relief, bronze etching and gilded lines in deep indigo, sea blue, matte gold, bronze, old brass and warm grey, centred on a calm axis in wide quiet space, with only tiny engraved marks or abstract characters. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-333 or asks for a sacred circuit seal, techno-relic medallion or ancient-future emblem from a photo."
 ---
 
 # XXD Panel 333
